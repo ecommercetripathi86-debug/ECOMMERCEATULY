@@ -1,0 +1,7 @@
+{
+  "name": "EduTribute",
+  "description": "AI-powered Teachers' Day special tribute engine featuring AI Guru appreciation cards, Voice of Gratitude multilingual TTS scripts, and interactive Trivia Battle quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
